@@ -17,6 +17,8 @@
 #include <utility>
 #include <vector>
 
+using std::nullptr_t;
+
 // forward declaration of array_ptr
 namespace eosio { namespace chain {
    template <typename T>
